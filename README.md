@@ -200,7 +200,7 @@ ICOCA&HARUKA
 | DAY8 | 按3次地铁估算                          | ICOCA              | 180×3       |
 | DAY9 | 去机场：地铁+南海空港急行              | ICOCA              | 1150        |
 
-ICOCA共支出5520 JPY，减去套票的1500 JPY，实际需充值4020 JPY，全程交通支出9820 JPY，按目前汇率计算为613RMB。
+ICOCA共支出5520 JPY，减去套票的1500 JPY，实际需充值4020 JPY，全程交通支出9820 JPY，按目前汇率计算为613 RMB。
 
 另外，想坐岚山小火车的记得去[官网（中文）](https://www.sagano-kanko.co.jp/sc/index.php)预定车票，或者万能的某宝。
 
