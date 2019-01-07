@@ -208,7 +208,7 @@ ICOCA共支出5520 JPY，减去套票的1500 JPY，实际需充值4020 JPY，全
 
 导航：Google Maps、雅虎地图，我用的Google Maps。
 
-换乘：(www.hyperdia.com/zh/)、(www.jorudan.co.jp)，两个都有APP，作为地图的补充。
+换乘：[hyperdia.com](www.hyperdia.com/zh/)、[jorudan.co.jp](www.jorudan.co.jp)，两个都有APP，作为地图的补充。
 
 吃喝：Tabelog、大众点评，会日语Tabelog，不会日语大众点评。实在懒得搞其实还有一种方案：看哪里排队去哪里。实际上如果不追求网红店的话，随缘吃就好，水准都很高。
 
@@ -408,9 +408,9 @@ ICOCA卡
 
 各类交通券非常多，各类关西攻略里最常提到的是3种：
 
-> - 市内一日券：[京都](www2.city.kyoto.lg.jp/kotsu/webguide/tc/ticket/index_ticket.html)、[大阪](osaka-info.jp/zh-TW/page/travel-passes)
-> - JR西日本的铁路周游券：[官网](www.westjr.co.jp/global/sc/ticket/)
-> - 关西周游卡：[官网](www.surutto.com/tickets/kansai_thru_kyotai.html)
+> - 市内一日券：[京都](https://www2.city.kyoto.lg.jp/kotsu/webguide/tc/ticket/index_ticket.html)、[大阪](https://osaka-info.jp/zh-TW/page/travel-passes)
+> - JR西日本的铁路周游券：[官网](https://www.westjr.co.jp/global/sc/ticket/)
+> - 关西周游卡：[官网](https://www.surutto.com/tickets/kansai_thru_kyotai.html)
 
 先制定行程，之后开Google maps查路线，之后根据交通券的使用范围再确定买哪张。
 
@@ -465,7 +465,7 @@ ICOCA卡
 
 ## Universal Studios Japan™
 
-日本环球影城位于日本大阪市此花区，是世界4个环球影城主题公园之一，具体玩什么有很多游记或者直接[官网（中文）](www.usj.co.jp/cn/)。
+日本环球影城位于日本大阪市此花区，是世界4个环球影城主题公园之一，具体玩什么有很多游记或者直接[官网（中文）](https://www.usj.co.jp/cn/)。
 
 ### 门票
 
@@ -473,7 +473,7 @@ USJ门票有两种：入场券和Express Pass。
 
 > 入场券：就是门票，这个是必须购买的，有1日券、2日券、年卡
 >
-> Express Pass：所谓的快速券，非必选，用来走快速通道，减少排队时间，快速券有数个版本[（官网介绍）](www.usj.co.jp/cn/ticket/express_pass.html)
+> Express Pass：所谓的快速券，非必选，用来走快速通道，减少排队时间，快速券有数个版本[（官网介绍）](https://www.usj.co.jp/cn/ticket/express_pass.html)
 >
 > - 通常版：有快速3项、4项、6项、7项几种版本，分别可以走3次、4次、6次、7次快速通道。以快速7项券举例：7项券会有四个固定项目，三组2选1的项目，加起来一共7项，7项券会有数个版本，每个版本可游玩的项目不同，购买之前请务必注意
 > - 特别版：USJ经常会有各种期间限定的活动，比如19年1月到5月是名侦探柯南和鲁邦三世的联动，特别版的可游玩项目中会包含特殊活动，中文官网上会有详细的时间和内容介绍
@@ -482,7 +482,7 @@ USJ门票有两种：入场券和Express Pass。
 强烈推荐购买快速券，USJ一天根本玩不过来，热门项目动辄排队2个小时遭不住啊（捂脸）。目前门票和快速券购买渠道有两种：
 
 > - 淘宝（飞猪）：找销量高的，快速券的入场时间找客服商量吧
-> - 官网：只有[日文官网](www.usj.co.jp/)可以购买，需要外币卡，不会日文的小伙伴看[这里](bbs.qyer.com/thread-2940321-1.html)，一日券+快速7项券可以节省100+ RMB，据说有支付失败的案例，请自行斟酌
+> - 官网：只有[日文官网](https://www.usj.co.jp/)可以购买，需要外币卡，不会日文的小伙伴看[这里](https://bbs.qyer.com/thread-2940321-1.html)，一日券+快速7项券可以节省100+ RMB，据说有支付失败的案例，请自行斟酌
 
 另外门票有纸质版和电子版，纸质版需要邮寄，电子版是打开了有二维码的链接，可以打印出来或者手机上直接打开。
 
@@ -510,7 +510,7 @@ USJ分了数个园区：哈利波特、侏罗纪、纽约等等，园区的建�
 ### 其他
 
 > - 霍格沃兹晚上有灯光表演（可能是期间限定，请关注官网）
-> - 巫师袍和魔杖很漂亮（捂脸），买了魔杖的话有很多地方可以施法：[地图](www.usj.co.jp/cn/attraction/att_detail/wand-magic.html)
+> - 巫师袍和魔杖很漂亮（捂脸），买了魔杖的话有很多地方可以施法：[地图](https://www.usj.co.jp/cn/attraction/att_detail/wand-magic.html)
 > - 退税需要去门口排队，请注意闭园时间提前去
 
 
