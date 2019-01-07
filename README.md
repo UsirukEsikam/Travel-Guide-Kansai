@@ -208,7 +208,7 @@ ICOCA共支出5520 JPY，减去套票的1500 JPY，实际需充值4020 JPY，全
 
 导航：Google Maps、雅虎地图，我用的Google Maps。
 
-换乘：http://www.hyperdia.com/zh/、www.jorudan.co.jp，两个都有APP，作为地图的补充。
+换乘：(www.hyperdia.com/zh/)、(www.jorudan.co.jp)，两个都有APP，作为地图的补充。
 
 吃喝：Tabelog、大众点评，会日语Tabelog，不会日语大众点评。实在懒得搞其实还有一种方案：看哪里排队去哪里。实际上如果不追求网红店的话，随缘吃就好，水准都很高。
 
